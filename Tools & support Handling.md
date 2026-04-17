@@ -100,7 +100,7 @@ This document outlines the protocols for handling various customer queries, esca
 
 ### ⚠️ Escalation Contacts
 
-- **DTDC Issues:** Agamani (+91 96114 55338)
+- **DTDC Issues:** Agamani (+91 96114 xxxx)
 - **Refund Delays (>72hrs):** Sabeeha
 - **General Operations:** Operations Manager
 
