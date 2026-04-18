@@ -53,7 +53,7 @@ If a customer receives a package that appears opened or damaged, the following p
 
 1. **Refusal:** The customer must **not** accept the delivery.
 2. **Evidence:** Capture clear photos of the outer packaging and the shipping label.
-3. **Reporting:** Notify support via WhatsApp (+91 6362348468) or Email (care@lagorii.com) immediately.
+3. **Reporting:** Notify support via WhatsApp (+91 6362348468) or Email (care@lxxxrii.com) immediately.
 
 ---
 
